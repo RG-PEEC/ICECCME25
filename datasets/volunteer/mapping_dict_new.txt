@@ -1,0 +1,314 @@
+Anthropology: anthropology
+Architecture: architectural design
+Counseling / Mental Health: advise on mental health
+Financial Service Assistance: assist in loan applications
+Portuguese: Portuguese
+Telecommunications: telecommunications engineering
+Marketing & Communications (Mar/Com): marketing management
+Hospitality: meet commitments in hospitality
+American Sign Language: sign language
+Robotics: robotics
+Video Production: perform video editing
+Administrative Support: administrative tasks in a medical environment
+Cross-cultural Communication: establish communication with foreign cultures
+Computer Science: computer science
+Case Work / Management: legal case management
+Facilities Management: facilities management in the organisation
+Urban Planning: urban planning
+Strategic Planning: strategic planning
+Networking: develop professional network
+Mathematics: mathematics
+Resource Development / Management: manage resources
+Food Delivery / Distribution: food service operations
+Adult Education: adult education
+Crisis Intervention: crisis intervention
+Stage Management: organise stage
+Environmental Education: educate people about nature
+Search Engine Optimization (SEO): search engine optimisation
+English as a Secondary Language (ESL): English
+Analytics: data analytics
+Orchestration: conduct musical ensembles
+Auto Mechanics / Repair: repair engines
+STEM: biomedical science
+Polish: Polish
+Ukrainian: write Ukrainian
+Botany: botany
+IT Management: ICT project management
+Career Counseling / Coaching: provide career counselling
+Web Design: implement front-end website design
+Advertising: advertising techniques
+Bartending: stock the bar
+Critical Thinking: think critically
+Human Resources Strategy: human resource management
+Event Management: carry out event management
+Coaching: coach employees
+Truck Driving: drive heavy duty trucks for snow removal
+Wind Instrument: musical instruments
+Math / Science Instruction: teach mathematics
+Project Management: project management
+Mental Health: promote mental health
+Delivery: deliver outstanding service
+Sales Process: sales activities
+Organization Design: develop an organisational structure
+Product Development: develop new products
+Human Resources Information Systems: human resource management
+First Aid / CPR: first aid
+Food & Beverage Services: food service operations
+CSR / Volunteer Coordination: coordinate charity services
+Stylist: hairdressing
+IT Help Desk: provide ICT support
+Security / Network Administration: manage system security
+Marketing Strategy & Planning: plan marketing strategy
+Microsoft Office Suite: use microsoft office
+Sound Production: audio post-production
+Horticulture: horticulture principles
+Plumbing: repair plumbing systems
+Elder care: tend to elderly people
+Human Resources Recruitment: recruit employees
+Customer Service: customer service
+Mentoring: mentor individuals
+Business Planning: develop business plans
+Basic Computer Skills: have computer literacy
+Beatboxing: perform music in ensemble
+Office Management: office administration
+Graphic Design: graphic design
+Mechanical Engineering: mechanical engineering
+Information Architecture: information architecture
+Cosmetology: cosmetic manicure
+Spanish: Spanish
+Child Advocacy: child protection
+Archeology: archaeology
+Janitorial Maintenance: operate janitorial tools
+Community Outreach: assist community
+Food Service: food service operations
+Performance Management: performance diagnosis
+Music Arts: fine arts
+Adobe Creative Suite: use creative suite software
+Civil Engineering: civil engineering
+Merchandising: carry out cross merchandising
+Knitting: use manual knitting techniques
+Child Development: children's physical development
+Operations: operations department processes
+Recruiting: recruit personnel
+Storytelling: tell a story
+Microfinance: microfinance
+String Instrument: tune stringed musical instruments
+Compensation: calculate compensation payments
+Google Apps: search engines
+Professional Development: manage personal professional development
+Brass Instrument: play musical instruments
+Water Recreation: promote recreation activities
+Social Media / Blogging: social media management
+Electronic Instrument: operate electronic measuring instruments
+Environmental Policy: environmental policy
+Search & Rescue: perform search and rescue missions
+Russian: Russian
+Electrical: electrical engineering
+Sewing: use manual sewing techniques
+Donor Management: manage donor database
+Bike Mechanics / Repair: bicycle mechanics
+Bus/Van Driving: drive vehicles
+Sports Coaching: coach during a sports competition
+Youth Services: plan youth programmes
+Financial Auditing: conduct financial audits
+Bicycling: perform repairs on bicycles
+Benefits: evaluate benefit plans
+Pharmacology: pharmacology
+Boxing: boxing
+Pediatrics: paediatrics
+Hospice Care: palliative care
+Human Resources Legal Compliance: ensure compliance with legal requirements
+Outdoor Recreation: outdoor activities
+Accounting: accounting
+Grant Writing / Research: write research proposals
+Bilingual: English
+Translation: translate texts
+Legal (General): legal terminology
+Pathology: pathology
+Pottery: create ceramic objects
+Fitness Instruction: safely instruct about fitness
+Reporting & Dashboards: produce sales reports
+Public Speaking: conduct public presentations
+People Skills: apply knowledge of human behaviour
+Human Resources Assistance: provide assistance with job search
+Exhibition Arts: present exhibition
+Physical Therapy: physiotherapy
+Painting: create original paintings
+History: history
+Animal Therapy: animal therapy
+IT Consulting: provide ICT consulting advice
+Child Care: baby care
+Safety & Disaster Education: educate public on fire safety
+Mediation: social mediation
+Copy Writing / Copy Editing: perform copywriting
+Home Repair: repair household appliances
+Animal Care / Handling: handle working animals
+Technical Writing: write technical reports
+Salesforce: use office systems
+Graphic Design / Print: graphic design
+Equestrian: horse riding
+E-commerce: e-commerce systems
+Family Therapy: family therapy
+Employment Law: employment law
+Dental: dental anatomy
+Transactions: carry out financial transactions
+Renovation: supervise projects for the conservation of heritage buildings
+SWOT / GAP Analysis: analyse issues
+Teaching / Instruction: teach in academic or vocational contexts
+Tutoring: tutor students
+Special Needs: special needs education
+Retail / Sales: sales activities
+Python: Python (computer programming)
+Law Enforcement: law enforcement
+Human Resources Diversity: human resource management
+Interior / Exterior Design: develop a specific interior design
+Veterinary: fundamental veterinary sciences
+Drawing: make drawings
+Upholstery: perform upholstery repair
+Advocacy: advocate for others
+EMT: assist ambulance paramedics
+Customer Acquisition: prospect new customers
+Public Relations: public relations
+Interpreter: voice interpreting
+Patient Care: provide healthcare services to patients in general medical practice
+Inventory Management: manage inventory
+Bookkeeping: accounting
+Web Design / UX: design user interface
+Relationship Building: build business relationships
+Disaster Relief Care & Shelters: assist families in crisis situations
+Dance / Aerobics: exercise sports
+SQL / MySQL: SQL
+French: French
+Office Reception: use office systems
+Theater Arts: theatre techniques
+Vietnamese: Vietnamese
+Singing: sing
+Child Welfare: support children's wellbeing
+Ushering: accompany people
+Program Management: project management
+Photography: photography
+Group Facilitation: facilitate teamwork between students
+Executive Admin: office administration
+Nutrition: nutrition
+Business Development: develop business plans
+Database Administration: database management systems
+Brand Development & Messaging: develop communications strategies
+Songwriting: write songs
+Soccer: football
+Research: perform scientific research
+Psychology: psychology
+Habitat Restoration: manage habitats
+Disaster Relief Call Center: support distressed emergency callers
+Korean: Korean
+Problem Solving: solve problems
+Market Research / Analysis: market research
+Spiritual Healing: spiritualism
+Woodworking: woodworking processes
+Event Planning / Management: plan events
+Library Sciences: classify library materials
+Family Law: family law
+Budgeting: manage budgets
+Macintosh Platform: operating systems
+Intellectual Property: manage intellectual property rights
+English: English
+Content Management Systems: manage data, information and digital content
+Crisis Counseling: provide clinical psychological support in crisis situations
+Basketball: exercise sports
+Golf: exercise sports
+Business Analysis: business analysis
+Internet Research: conduct web searches
+Capacity Planning: plan future capacity requirements
+Contract Negotiations: negotiate contracts with event providers
+Website Programming: web programming
+Financial Literacy: financial capability
+Journalism: journalism
+System Engineering: model based system engineering
+Chemical Engineering: chemical technologies in metal manufacture
+Reading / Writing: media and information literacy 
+Conflict Resolution: resolve conflicts
+Interior Design: develop a specific interior design
+Audio-Visual: audiovisual products
+Animation Software: develop animations
+Dance: perform dances
+Children Medical Services: implement care programmes for children
+Website Project Management: project management
+Immigration Law: apply immigration law
+Warehousing: perform warehousing operations
+Interactive/Social Media/SEO: conduct search engine optimisation
+Cantonese / Mandarin: Chinese
+Reading Comprehension: understand written English
+Disaster Response: response to health emergencies
+Online Flash/Video Production: digital content creation
+Supply Chain: supply chain management
+PC Platform: computer technology
+Cooking / Catering: use cooking techniques
+Fundraising: perform fundraising activities
+Bereavement Support: provide emotional support to the bereaved
+Life Coaching: coach employees
+Acupuncture: apply acupuncture
+Multi-Tasking: perform multiple tasks at the same time
+Financial Planning: create a financial plan
+Farming: organic farming
+Secretarial: office administration
+Carpentry: carpentry
+Astronomy: astronomy
+Occupational Therapy: occupational therapy theories
+Massage Therapy: therapeutic massage
+Italian: Italian
+TV Production: film production process
+ERP / CRM: customer relationship management
+Event Design & Planning: plan events
+Baking: bake goods
+Mobile Programming: computer programming
+Organization: organise information, objects and resources
+Physician: general medicine
+Paralegal: assist with litigation matters
+Sales Coaching & Training: coach employees
+ETC / Tax Assistance: offer assistance to national citizens
+Music Therapy: music therapy clinical practice
+Physical Education: exercise sports
+Visual Arts: fine arts
+Disaster Cleanup: clean public areas
+Transportation Management: apply transportation management concepts
+Japanese: Japanese
+Tax Law: tax legislation
+Market Research: market research
+Construction: construction industry
+Cardiology: cardiology
+Nursing: nursing principles
+Acting: acting techniques
+Aviation: civil aviation regulations
+Network Administration: analyse network configuration and performance
+Physician Assistant: clinical science
+Percussion Instrument: musical instruments
+Social Work: carry out social work research
+Baseball: exercise sports
+Management: manage personnel
+Arts Administration: manage creative department
+Sales Marketing: sales strategies
+Landscaping: landscape design
+Real Estate & Leasing: real estate market
+Crocheting: crafting
+Transportation: transportation methods
+Human Resources Training & Development: develop training programmes
+Data Entry: process data
+Quilting: apply stitching techniques
+Veteran Care: provide basic support to patients
+Public Advocacy: advocate a cause
+Faith-based Leadership: show an exemplary leading role in an organisation
+Healthcare: promote health and safety policies in health services
+Cost Analysis: cost management
+Swimming: swim
+Lobbying: influence public policies
+Software Engineering: computer science
+Verbal / Written Communication: communication
+Keyboard Instrument: play musical instruments
+Security: identify security threats
+Software Development: create software design
+Gardening: horticulture principles
+Marketing Analytics: marketing management
+Business Development & Sales Management: align efforts towards business development
+Literacy / Reading: teach reading strategies
+General Education: coordinate educational programmes
+Environmental Science: perform environmental investigations
+Curating: establish high standards of collections care
